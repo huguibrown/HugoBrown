@@ -1,0 +1,20 @@
+[
+ {
+   "title": "BUZO NGR",
+   "price": 10000,
+   "thumbnail": "",
+   
+ },
+ {
+   "title": "TOP NGR",
+   "price": 3000,
+   "thumbnail": "",
+   
+ },
+ {
+   "title": "NGR CONJUNTO",
+   "price": 5000,
+   "thumbnail": "",
+   
+ }
+]
