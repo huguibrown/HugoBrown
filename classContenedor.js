@@ -70,7 +70,7 @@ class ProductManager {
 
 async function run(){
   const manager = new ProductManager('./products.txt')
-  await manager.addProduct('producto 1', 'descripción 1', 1500, 'N/A', 10, 'abc123')
+  /*await manager.addProduct('producto 1', 'descripción 1', 1500, 'N/A', 10, 'abc123')
   await manager.addProduct('producto 2', 'descripción 2', 2500, 'N/A', 20, 'abc456')
   await manager.addProduct('producto 3', 'descripción 3', 3500, 'N/A', 30, 'abc789')
   await manager.addProduct('producto 4', 'descripción 4', 4500, 'N/A', 40, 'def123')
